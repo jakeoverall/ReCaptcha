@@ -17,8 +17,8 @@ This is why it is important that you have your server or backend make the get re
 
 Fork or clone this repo then
 
-  $ npm install
+    $ npm install
 
-  $ node server.js
+    $ node server.js
 
 go to localhost:8881 in your favorite browser
